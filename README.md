@@ -1,4 +1,4 @@
-# DJ-Menus
+# DL-DJ-Menu
 Simple FiveM DJ Menu for ESX.
 
 # Dependency
